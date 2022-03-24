@@ -9,15 +9,6 @@
 
 
     <com.google.android.material.button.MaterialButton
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/button"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="40dp"
-        />
-
-    <com.google.android.material.button.MaterialButton
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -28,6 +19,15 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button"
